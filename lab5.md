@@ -59,5 +59,5 @@ TARGET_LINK_LIBRARIES(dynamic MyDynaLib)
 
 ## CMake Make File  
 
-[Link to file because it was too large](Makefile.txt)
+[Link to file because it was too large](Makefile)
 
