@@ -61,3 +61,12 @@ TARGET_LINK_LIBRARIES(dynamic MyDynaLib)
 
 [Link to file because it was too large](Makefile)
 
+## Sizes
+
+The sizes are about 9.0 kb apart. The Cmake one is far larger.
+
+## Output
+
+The outputs from the static and dynamic ones:
+
+
