@@ -67,6 +67,6 @@ The sizes are about 9.0 kb apart. The Cmake one is far larger.
 
 ## Output
 
-The outputs from the static and dynamic ones:
-
+The outputs from the static and dynamic ones:  
+![outputs](outputs.png)  
 
